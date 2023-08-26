@@ -1,0 +1,6 @@
+Çalıştırmak için önce 2 terminal açınız.
+- Birinci terminalde "npm run watch"
+- İkinci terminalde "npm run dev"
+komutlarını çalıştırarak uygulama ayağa kaldırılacaktır.
+
+Script ana dizine eklendi.
